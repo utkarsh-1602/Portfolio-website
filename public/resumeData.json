@@ -1,45 +1,31 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
+    "name": "Utkarsh Hadgekar",
+    "occupation": "CSE UnderGraduate",
     "description": "I eat, sleep and breathe React",
-    "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "image": "utboy.jpg",
+    "bio": "Hi there! I am Utkarsh! A Btech. 3rd year CSE student. have a good grasp of Data Structure and Algorithms. developing Front-end & Android projects. familiar with cloud computing and Machine Learning. looking for a SDE internship. Tried Competitive Programming(3star Codechef & 5star Hackerrank). and an Open Source Enthusiast.",
+    "contactmessage": "Contact Me",
+    "email": "utkarshhadgekar16@gmail.com",
+    "phone": "",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "street": "",
+      "city": "",
+      "state": "India",
+      "zip": ""
     },
     "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    "resumedownload": "https://github.com/utkarsh-1602/My_RESUME/raw/main/Utkarsh-hadgekar_Resume.pdf",
     "social": [
-      {
-        "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
-        "className": "fa fa-youtube"
-      },
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
-        "className": "fa fa-facebook"
-      },
+
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/utkarsh-hadgekar-9a0b411a5/",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
-        "className": "fa fa-instagram"
-      },
-      {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "https://github.com/utkarsh-1602",
         "className": "fa fa-github"
       }
     ]
@@ -48,63 +34,54 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
+        "school": "P.E.S College of Engineering, A'bad",
         "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "graduated": "July 2023",
+        "description": "Currently in 5th Semester"
       }
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "company": "Linux Administration",
+        "title": "Summer Internship",
+        "years": "May 2020 - June 2020",
+        "description": "Learned About Linux OS, Various Linux Commands, Installing and setting up Linux systems. Using Virtual Machine in Windows to Run Linux(Debian, Ubuntu). Used Virtual Machines such as VMware, Workstation Player, VirtualBox."
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
-        "level": "100%"
+        "name": "Java",
+        "level": "80%"
       },
       {
-        "name": "Python",
-        "level": "85%"
-      },
-      {
-        "name": "Git",
+        "name": "C++",
         "level": "70%"
       },
       {
         "name": "JavaScript",
-        "level": "99%"
+        "level": "60%"
       },
       {
         "name": "Web Development",
-        "level": "95%"
+        "level": "50%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Snapchat Clone (React JS)",
+        "title": "Netflix Clone",
         "category": "",
-        "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
+        "image": "project1.png",
+        "url": "https://netflix-clone-c1d96.web.app/"
       },
       {
-        "title": "Gmail Clone (React JS)",
+        "title": "Lofi-Music App",
         "category": "",
-        "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
-      },
-      {
-        "title": "LinkedIn Clone (React JS)",
-        "category": "",
-        "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
+        "image": "project2.png",
+        "url": "https://chillmusic.vercel.app/"
       }
+     
     ]
   },
   "testimonials": {
