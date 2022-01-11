@@ -8,5 +8,5 @@
 
 ##### Original Idea
 
-<a href="https://github.com/sonnysangha/Resume-Portfolio-Starter-pack">Sonny Sangha</a>
+<a href="https://github.com/sonnysangha/Resume-Portfolio-Starter-pack">Sonny Sangha</a><br>
 <a href="https://github.com/tbakerx/react-resume-template/blob/master/README.md">Tim Baker</a>
